@@ -1,4 +1,4 @@
-Scala script execution 
+Scala script execution:
 
 git clone https://github.com/ravia1410/weatherDataGenerator.git
 
@@ -9,7 +9,8 @@ cd src/main/scala
 scala -cp ../../../lib/scalaj-http_2.11-2.3.0.jar weatherDataGenerator.scala
 
 
-Sample output
+
+Sample output:
 
 PER|-31.95,115.86,15|2017-11-30T09:19:28Z|Snow|-7.3|993.2|57
 

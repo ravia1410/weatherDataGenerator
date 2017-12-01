@@ -6,7 +6,14 @@ cd weatherDataGenerator
 
 cd src/main/scala
 
+Command to run on Linux:
+
 scala -cp ../../../lib/scalaj-http_2.11-2.3.0.jar weatherDataGenerator.scala
+
+Commnad to run on Windows:
+
+scala -cp ../../../lib/scalaj-http_2.11-2.3.0.jar -nc weatherDataGenerator.scala
+
 
 
 
